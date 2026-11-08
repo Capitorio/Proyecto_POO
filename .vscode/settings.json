@@ -1,0 +1,16 @@
+{
+    "java.project.referencedLibraries": [
+        "libraries-javafx/**/*.jar",
+        ".vscode/libraries-javafx/javafx.base.jar",
+        ".vscode/libraries-javafx/javafx.controls.jar",
+        ".vscode/libraries-javafx/javafx.fxml.jar",
+        ".vscode/libraries-javafx/javafx.graphics.jar",
+        ".vscode/libraries-javafx/javafx.media.jar",
+        ".vscode/libraries-javafx/javafx.swing.jar",
+        ".vscode/libraries-javafx/javafx.web.jar",
+        ".vscode/libraries-javafx/javafx-swt.jar",
+        ".vscode/libraries-javafx/jdk.jsobject.jar",
+        ".vscode/libraries-javafx/jfx.incubator.input.jar",
+        ".vscode/libraries-javafx/jfx.incubator.richtext.jar"
+    ]
+}
